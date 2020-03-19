@@ -1,3 +1,6 @@
 # IntelliJ
 .idea
 kafka-beginners-course.iml
+
+# Build artifacts
+target
